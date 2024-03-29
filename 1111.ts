@@ -12,3 +12,9 @@ switch () {
 
 }
 
+
+onkeydown(
+    offscreenBuffering declare function f(                      111111111
+        
+);
+)
