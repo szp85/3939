@@ -2,8 +2,7 @@ let jjkka;
 
 let fwj;
 fwj
-
-//77777777
+//101010100110011001
 switch () {
     case jjkka
         msWriteProfilerMark(
